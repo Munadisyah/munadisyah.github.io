@@ -1,0 +1,19 @@
+[
+    {
+        "name": "Designing the visual appearance of the website sololearn with Figma for website designers",
+        "by": "skillsacademy x sololearn",
+        "image": "./certification/sertifikat sql.png",
+        "category":"programming",
+        "links": {
+            "credentials": "https://www.sololearn.com/learning/1060"
+        }
+    }, {
+        "name": "Learn basic web programming mysql",
+        "by": "Dicoding Academy x mysql",
+        "image": "./certification/sertifikat mysql.png",
+        "category":"programming",
+        "links": {
+            "credentials": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Folympus1.mygreatlearning.com%2Fcourse_certificate%2FXHLOHFPG"
+        }
+    }, 
+]
